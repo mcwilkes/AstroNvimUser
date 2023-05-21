@@ -1,6 +1,9 @@
--- TODO test
--- FIX test
--- HACK test
+-- TODO: test
+-- PERF: what about this
+-- FIX: test
+-- HACK: test
+-- WARN: this too
+-- TEST: and this too
 return {
   {
     "folke/todo-comments.nvim",
